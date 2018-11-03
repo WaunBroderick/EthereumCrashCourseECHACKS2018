@@ -20,4 +20,4 @@ A Betting contract facilitates a system where users can contribute to a pool whe
 https://github.com/ethereum/web3.js/<br>
 npm<br>
 node<br>
-lite serve - $npm i lite-server
+lite serve - $npm install lite-server -g
